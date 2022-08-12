@@ -1,5 +1,5 @@
 //Java program for Popular Game - Rock, Paper, Scissor
-//Code Author: Ambrish Dubey
+//Code Author:- Ambrish Dubey
 
 //Importing the Random class of util package
 import java.util.Random;
